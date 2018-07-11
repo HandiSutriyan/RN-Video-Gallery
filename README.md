@@ -1,4 +1,4 @@
-# React Native DumbWays Boilerplate
+# Video gallery using React Native DumbWays Boilerplate
 
 This is a complete React Native Boilerplate including React Navigator, Redux, and Nativebase. This Boilerplate helps u quickly jump to code as soon as possible without being confuse about structures, and setup. We make it as modular as possible to avoid headache on a big app with a big team.
 
@@ -27,7 +27,9 @@ $ react-native run-android
 or
 $ react-native run-ios
 ```
-
+## Features
+- Gallery
+- Search list filter
 ## Example & Folder Structures
 
 - In the 'app' folder, look at 'contacts' module, there you can look how redux, react-navigation, and native-base works together
