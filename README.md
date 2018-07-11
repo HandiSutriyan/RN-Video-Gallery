@@ -47,4 +47,4 @@ RootNavigator.router.getActionForPathAndParams('ContactsList') //change Contacts
 
 |            |            |  
 |------------|------------|
-|<img src="https://github.com/HandiSutriyan/RN-Video-Gallery/blob/master/Screenshot_2018-07-11-23-19-23-50.png" >|<img src="https://drive.google.com/open?id=1QDUJTpD3rifqyK06Pum30VmSks5cBjP6" >|
+|<img src="https://github.com/HandiSutriyan/RN-Video-Gallery/blob/master/Screenshot_2018-07-11-23-19-23-50.png" >|<img src="https://github.com/HandiSutriyan/RN-Video-Gallery/blob/master/Screenshot_2018-07-11-23-19-26-67.png" >|
