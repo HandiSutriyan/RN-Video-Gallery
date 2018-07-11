@@ -45,6 +45,6 @@ RootNavigator.router.getActionForPathAndParams('ContactsList') //change Contacts
 - Add your reducers at 'app/redux/rootReducer'
 ## Screenshoot
 
-|            |            |  
-|------------|------------|
-|<img src="https://github.com/HandiSutriyan/RN-Video-Gallery/blob/master/Screenshot_2018-07-11-23-19-23-50.png" >|<img src="https://github.com/HandiSutriyan/RN-Video-Gallery/blob/master/Screenshot_2018-07-11-23-19-26-67.png" >|
+|            |            |        | 
+|------------|------------|--------|
+|<img src="https://github.com/HandiSutriyan/RN-Video-Gallery/blob/master/Screenshot_2018-07-11-23-19-23-50.png" >|<img src="https://github.com/HandiSutriyan/RN-Video-Gallery/blob/master/Screenshot_2018-07-11-23-19-26-67.png" >|<img src="https://github.com/HandiSutriyan/RN-Video-Gallery/blob/master/Screenshot_2018-07-11-23-36-27-40%5B1%5D.png">
