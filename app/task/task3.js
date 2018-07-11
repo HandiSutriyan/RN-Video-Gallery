@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import {Text, FlatList, Image, ScrollView, View } from 'react-native'
+import {Text, FlatList, Image, ScrollView, View, Dimensions } from 'react-native'
 import {Container, Content, Item, List, ListItem, Body, Right, Thumbnail,} from 'native-base'
 import axios from 'axios'
 
@@ -40,7 +40,8 @@ export default class Task3 extends Component{
 							renderItem={({item})=>
 								<View>
 									<Image source={{uri:item}} style={{
-										width:90,height:90
+										width:Dimensions.get('screen').width*0.25
+										,height:Dimensions.get('screen').height*0.15
 									}}/>
 								</View>
 							}
