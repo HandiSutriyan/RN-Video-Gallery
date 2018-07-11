@@ -43,3 +43,8 @@ RootNavigator.router.getActionForPathAndParams('ContactsList') //change Contacts
 - Register your screen on 'app/navigators/RootNavigator.js'
 
 - Add your reducers at 'app/redux/rootReducer'
+## Screenshoot
+
+|            |            |  
+|------------|------------|
+|<img src="https://drive.google.com/open?id=1QDUJTpD3rifqyK06Pum30VmSks5cBjP6" >|<img src="https://drive.google.com/open?id=1QDUJTpD3rifqyK06Pum30VmSks5cBjP6" >|
